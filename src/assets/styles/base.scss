@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  line-height: 1;
+}
+
+html {
+  font-size: calc(100vw / 37.5);
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 1rem;
+}
+
+input {
+  border: 0.1rem solid grey;
+  border-radius: 0.4rem;
+  padding: 0.4rem;
+}
