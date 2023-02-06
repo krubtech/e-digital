@@ -1,4 +1,5 @@
 # e-digital
+test for frontend developer position
 
 ## Project setup
 ```
